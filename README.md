@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my <a href="https://github.com/iamShekharGH/phirstkotlinandroidaap">Phirst Kotlin App </a>
-- 🌱 I’m currently learning <a href="https://developer.android.com/jetpack/guide">Guide to app architecture</a>
-- 📫 How to reach me: <a href="mailto:shekhargh13@gmail.com">Mail me!</a>
-- :metal: <a href="https://www.instagram.com/iamshekhargh/">@iamShekharGH</a> my Instagram
-- :guitar: <a href="https://open.spotify.com/user/iamshekharrgh?si=wD8pUdLRSryN33IMPF-bjQ">iamshekharrgh</a> made a typo:cry:
+- 🔭  I’m currently working on my <a href="https://github.com/iamShekharGH/phirstkotlinandroidaap">Phirst Kotlin App </a>
+- 🌱  I’m currently learning <a href="https://developer.android.com/jetpack/guide">Guide to app architecture</a>
+- 📫  How to reach me: <a href="mailto:shekhargh13@gmail.com">Mail me!</a>
+-  :metal: <a href="https://www.instagram.com/iamshekhargh/">@iamShekharGH</a> my Instagram
+-  :guitar: <a href="https://open.spotify.com/user/iamshekharrgh?si=wD8pUdLRSryN33IMPF-bjQ">iamshekharrgh</a> made a typo:cry:
 
 
 
