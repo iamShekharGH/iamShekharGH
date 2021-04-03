@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... <a href="https://github.com/iamShekharGH/phirstkotlinandroidaap">Phirst Kotlin App </a>
+- 🔭 I’m currently working on my <a href="https://github.com/iamShekharGH/phirstkotlinandroidaap">Phirst Kotlin App </a>
 
 
 <!--
