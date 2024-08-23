@@ -1,6 +1,5 @@
 ### Hi there 👋 
 
--  I’m currently working on this -> <a href="https://github.com/iamShekharGH/PizzaOrderingAndroidApp">PizzaOrderingAndroidApp </a>🍕
 -  I’m worked on (I worked on ->) <a href="https://github.com/iamShekharGH/NotesKeeper">NotesKeeper </a>📖
 -  I’m was working on (yeah, I'm was sounds better than I was.)🌲 <a href="https://github.com/iamShekharGH/phirstkotlinandroidaap">Phirst Kotlin App </a>🔭 
 -  I’m currently learning <a href="https://developer.android.com/jetpack/guide">Guide to app architecture</a>🌱
