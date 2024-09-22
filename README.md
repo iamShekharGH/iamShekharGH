@@ -1,9 +1,11 @@
 ### Hi there 👋 
 
--  I’m currently working on this -> <a href="https://github.com/iamShekharGH/simpleArchitecturePractice">simpleArchitecturePractice </a>🍕
--  I’m worked on (I worked on ->) <a href="https://github.com/iamShekharGH/NotesKeeper">NotesKeeper </a>📖
--  I’m was working on (yeah, I'm was sounds better than I was.)🌲 <a href="https://github.com/iamShekharGH/phirstkotlinandroidaap">Phirst Kotlin App </a>🔭 
--  I’m currently learning <a href="https://developer.android.com/jetpack/guide">Guide to app architecture</a>🌱
+-  I’m currently working on this -> [Employee CRM App.](https://github.com/iamShekharGH/Employee_crm) :see_no_evil: :hear_no_evil: :speak_no_evil:
+-  I’m worked on (I worked on ->) [simpleArchitecturePractice](https://github.com/iamShekharGH/simpleArchitecturePractice) 📖
+-  I’m worked on (I worked on ->) [NotesKeeper](https://github.com/iamShekharGH/NotesKeeper) </a>📖
+
+-  ~~I’m~~ I was working on 🌲 [Phirst Kotlin App](https://github.com/iamShekharGH/phirstkotlinandroidaap) 🔭 
+-  I’m currently learning [Guide to app architecture](https://developer.android.com/jetpack/guide) 🌱
 - 📫    How to reach me: <a href="mailto:shekhargh13@gmail.com">Mail me!</a>
 -  :metal:  <a href="https://www.instagram.com/iamshekhargh/">@iamShekharGH</a> my Instagram
 -  :guitar:   <a href="https://open.spotify.com/user/iamshekharrgh?si=wD8pUdLRSryN33IMPF-bjQ">iamshekharrgh</a> made a typo :cry:
