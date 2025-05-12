@@ -1,5 +1,6 @@
 ### Hi there 👋 
 
+-  I’m currently working on this -> [AI Article Summarizer](https://github.com/iamShekharGH/AI_Article_Summarizer) :grin: :pizza: :tea:
 -  I’m currently working on this -> [Eat well live well](https://github.com/iamShekharGH/Eat-Well-Live-Wel) :apple: :doughnut: :bread:
 -  I’m worked on (I worked on ->) [Employee CRM App.](https://github.com/iamShekharGH/Employee_crm) :see_no_evil: :hear_no_evil: :speak_no_evil:
 -  I’m worked on (I worked on ->) [simpleArchitecturePractice](https://github.com/iamShekharGH/simpleArchitecturePractice) 📖
